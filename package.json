@@ -42,7 +42,8 @@
     "@stdlib/math-base-special-factorial": "^0.0.x",
     "@stdlib/math-base-special-factorialln": "^0.0.x",
     "@stdlib/math-base-special-ln": "^0.0.x",
-    "@stdlib/math-base-tools-sum-series": "^0.0.x"
+    "@stdlib/math-base-tools-sum-series": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.0.x",
