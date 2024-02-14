@@ -42,7 +42,8 @@
     "@stdlib/math-base-special-factorial": "^0.2.0",
     "@stdlib/math-base-special-factorialln": "^0.2.0",
     "@stdlib/math-base-special-ln": "^0.2.0",
-    "@stdlib/math-base-tools-sum-series": "^0.2.0"
+    "@stdlib/math-base-tools-sum-series": "^0.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.2.0",
