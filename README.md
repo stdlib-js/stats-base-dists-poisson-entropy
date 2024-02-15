@@ -69,7 +69,7 @@ where `λ` is the mean parameter.
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-entropy@v0.2.0-deno/mod.js';
 ```
 
 #### entropy( lambda )
@@ -114,7 +114,7 @@ var v = entropy( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-poisson-entropy@v0.2.0-deno/mod.js';
 
 var lambda;
 var v;
