@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-01)
+
+<section class="features">
+
+### Features
+
+-   [`88ed88f`](https://github.com/stdlib-js/stdlib/commit/88ed88ffa11b6cc1837e75f7fb9024a89ab3d94d) - add C implementation for `stats/base/dists/poisson/entropy` [(#10874)](https://github.com/stdlib-js/stdlib/pull/10874)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3786](https://github.com/stdlib-js/stdlib/issues/3786)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`88ed88f`](https://github.com/stdlib-js/stdlib/commit/88ed88ffa11b6cc1837e75f7fb9024a89ab3d94d) - **feat:** add C implementation for `stats/base/dists/poisson/entropy` [(#10874)](https://github.com/stdlib-js/stdlib/pull/10874) _(by Kamal Singh Rautela, Neeraj Pathak, Philipp Burckhardt)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Kamal Singh Rautela
+-   Neeraj Pathak
 -   Philipp Burckhardt
 
 </section>
